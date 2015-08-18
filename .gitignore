@@ -2,6 +2,7 @@
 /vendor
 /log/*.log
 /tmp
+log/development.log
 public/assets/*
 dump.rdb
 *.rbc
